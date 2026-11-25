@@ -1,0 +1,25 @@
+/* Theme - Poimandres */
+@define-color capsule_bg #1b1e28;
+@define-color capsule_hover #303340;
+@define-color capsule_fg #e4f0fb;
+@define-color border_color #303340;
+@define-color clock_color #fcc5e9;
+@define-color ram_color #add7ff;
+@define-color keyviz_color #5de4c7;
+@define-color recorder_color #d0679d;
+@define-color ws_focused #5de4c7;
+@define-color ws_occupied #add7ff;
+@define-color ws_empty #303340;
+@define-color ws_urgent #d0679d;
+@define-color bt_color #89ddff;
+@define-color net_color #fffac2;
+@define-color vol_color #5de4c7;
+@define-color bat_color #89ddff;
+@define-color session_color #d0679d;
+@define-color accent #5de4c7;
+@define-color accent_alt #add7ff;
+@define-color rd1 #5de4c7;
+@define-color dark_bg #1b1e28;
+@define-color hover_bg #303340;
+@define-color bg #1b1e28;
+@define-color fg #e4f0fb;
